@@ -1,0 +1,5 @@
+Month   Year   WCZ   Red_Tide_Species_1   Red_Tide_Species_2   Red_Tide_Species_3   Temperature   Salinity   Dissolved_Oxygen
+Jan     2022   A     0                    1                    0                    25            35         6
+Feb     2022   B     1                    0                    1                    26            36         5
+Mar     2022   A     0                    1                    1                    27            34         7
+Apr     2022   C     1                    1                    0                    24            35         6

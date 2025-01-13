@@ -1,0 +1,388 @@
+Akashiwo G.Hansen & Moestrup, 2000
+Akashiwo sanguinea (K.Hirasaka) Gert Hansen & Moestrup, 2000
+Alexandrium Halim, 1960
+Alexandrium affine (H.Inoue & Y.Fukuyo) Balech, 1995
+Alexandrium andersonii Balech, 1990
+Alexandrium australiense Sh.Murray, 2014
+Alexandrium balechii (Steidinger) Balech, 1995
+Alexandrium catenella (Whedon & Kofoid) Balech, 1985
+Alexandrium fragae S.Branco & M.Menezes, 2020
+Alexandrium hiranoi Kita & Fukuyo, 1988
+Alexandrium leei Balech, 1985
+Alexandrium limii S.T.Teng, Tillmann, N.Abdullah, S.Nagai & Leaw, 2023
+Alexandrium minutum Halim, 1960
+Alexandrium monilatum (J.F.Howell) Balech, 1995
+Alexandrium ogatae S.T.Teng, N.Abdullah, Tillmann, Leaw & P.T.Lim, 2023
+Alexandrium ostenfeldii (Paulsen) Balech & Tangen, 1985
+Alexandrium pacificum R.W.Litaker, 2014
+Alexandrium pseudogonyaulax (Biecheler) Horiguchi ex K.Yuki & Y.Fukuyo, 1992
+Alexandrium tamarense (Lebour) Balech, 1995
+Alexandrium tamiyavanichii Balech, 1994
+Alexandrium taylorii Balech, 1994
+Alveolata
+Amphidiniaceae Moestrup & Calado, 2018
+Amphidiniales
+Amphidinium Claperède & Lachmann, 1859
+Amphidinium carterae Hulburt, 1957
+Amphidinium gibbosum (L.Maranda & Y.Shimizu) Flø Jørgensen & Shauna Murray, 2004
+Amphidinium klebsii Kofoid & Swezy, 1921
+Amphidinium operculatum Claparède & Lachmann, 1859
+Amphidoma Stein, 1883
+Amphidoma languida Tillmann, Salas & Elbrächter, 2012
+Amphidomataceae Sournia, 1984
+Amphipleuraceae Grunow, 1862
+Anabaena Bory de Saint-Vincent ex Bornet & Flahault, 1886
+Anabaenopsis V.V.Miller, 1923
+Aphanizomenonaceae Elenkin, 1938
+Arthrospira Sitzenberger ex Gomont, 1892
+Azadinium Elbrächter & Tillmann, 2009
+Azadinium dexteroporum Percopo & Zingone, 2013
+Azadinium poporum Tillmann & Elbrächter, 2011
+Azadinium spinosum Elbrächter & Tillmann, 2009
+Bacillariaceae Ehrenberg, 1831
+Bacillariales
+Bacillariophycanae
+Bacillariophyceae
+Bacillariophycidae
+Bacillariophyta
+Bacillariophytina
+Bacteria
+Blennothrix Kützing ex Anagnostidis & Komárek, 1988
+Blennothrix lyngbyacea (Kützing ex Gomont) Anagnostidis & Komárek, 1988
+Brachidiniaceae Sournia, 1972
+Calothrix C.Agardh ex Bornet & Flahault, 1886
+Catenulaceae Mereschkowsky, 1902
+Centrodinium Kofoid, 1907
+Centrodinium punctatum (Cleve) F.J.R.Taylor, 1976
+Chattonella B.Biecheler, 1936
+Chattonella malayana W.M.Lum, H.C.Lim, S.T.Teng, K.Takahashi, Leaw, P.T. Lim & Iwataki, 2022
+Chattonella marina (Subrahmanyan) Y.Hara & Chihara, 1982
+Chattonella marina var. antiqua (Hada) Demura & Kawachi, 2009
+Chattonella marina var. ovata (Y.Hara & Chihara) Demura & Kawachi, 2009
+Chattonella subsalsa B.Biecheler, 1936
+Chattonellaceae J. Throndsen, 1993
+Chattonellales
+Chlamydomonadales
+Chlorophyceae
+Chlorophyta
+Chlorophytina
+Chromista
+Chroococcales
+Chrysochromulina Lackey, 1939
+Chrysochromulina leadbeateri Estep, Davis, Hargreaves & Sieburth, 1984
+Chrysochromulinaceae Edvardsen, Eikrem & Medlin, 2011
+Chrysosporum E.Zapomelová, O.Skaácelová, P.Pumann, R.Kopp & E.Janecek, 2012
+Chrysosporum bergii (Ostenfeld) E.Zapomelová, O.Skácelová, P.Pumann, R.Kopp & E.Janecek, 2012
+Chrysosporum ovalisporum (Forti) E.Zapomelová, O.Skácelová, P.Pumann, R.Kopp & E.Janecek, 2012
+Coccolithophyceae
+Cochlodinium Schütt, 1896
+Coleofasciculaceae J.Komárek, J.Kastovsky, Mareš & J.R.Johansen, 2014
+Coleofasciculales
+Coolia Meunier, 1919
+Coolia canariensis S.Fraga, 2008
+Coolia malayensis Leaw, P.-T.Lim & Usup, 2001
+Coolia palmyrensis Karafas, Tomas & York, 2015
+Coolia tropicalis M.A.Faust, 1995
+Cryptomonadaceae Ehrenberg, 1831
+Cryptomonadales
+Cryptomonas Ehrenberg, 1831
+Cryptophyceae
+Cryptophyta
+Cyanobacteria
+Cyanobium bacillare (Butcher) Komárek, Kopeck & Cepák, 1999
+Cyanophyceae
+Cylindrospermum Kützing ex Bornet & Flahault, 1886
+Dictyochaceae Lemmermann, 1901
+Dictyochales
+Dictyochophyceae
+Dinoflagellata
+Dinophyceae
+Dinophysaceae Bütschli, 1885
+Dinophysales
+Dinophysis Ehrenberg, 1839
+Dinophysis acuminata Claparède & Lachmann, 1859
+Dinophysis acuta Ehrenberg, 1839
+Dinophysis caudata Saville-Kent, 1881
+Dinophysis fortii Pavillard, 1924
+Dinophysis infundibulum J. Schiller, 1928
+Dinophysis miles Cleve, 1900
+Dinophysis norvegica Claparède & Lachmann, 1859
+Dinophysis ovum T.H.Abé, 1967
+Dinophysis sacculus F.Stein, 1883
+Dinophysis tripos Gourret, 1883
+Dinophysoidia
+Dinozoa
+Dolichospermum (Ralfs ex Bornet & Flahault) P.Wacklin, L.Hoffmann & J.Komárek, 2009
+Entomosigma J.Schiller, 1925
+Fibrocapsa S.Toriumi & H.Takano, 1973
+Fibrocapsa japonica S.Toriumi & H.Takano, 1973
+Florenciellales
+Frustulia L. Rabenhorst, 1853
+Fukuyoa Gomez, Qiu, Lopes & Lin, 2015
+Fukuyoa paulensis F.Gómez, D.X.Qiu, R.M.Lopes & Senjie Lin, 2015
+Fukuyoa ruetzleri (M.A.Faust, Litaker, Vandersea, Kibler, W.C.Holland & P.A.Tester) F.Gómez, D.X.Qiu, R.M.Lopes & Senjie Lin, 2005
+Fukuyoa yasumotoi (M.J.Holmes) F.Gómez, D.X.Qiu, R.M.Lopes & Senjie Lin, 2015
+Gambierdiscoideae Fensome, F.J.R.Taylor, G.Norris, Sarjeant, Wharton & G.L.William, 1993
+Gambierdiscus R.Adachi & Y.Fukuyo, 1979
+Gambierdiscus australes Chinain & M.A.Faust, 1999
+Gambierdiscus balechii S.Fraga, F.Rodríguez & I.Bravo, 2016
+Gambierdiscus belizeanus M.A.Faust, 1995
+Gambierdiscus caribaeus Vandersea, Litaker, M.A.Faust, Kibler, W.C.Holland & P.A.Tester, 2009
+Gambierdiscus carolinianus Litaker, Vandersea, M.A.Faust, Kibler, W.C.Holland & P.A.Tester, 2009
+Gambierdiscus carpenteri Kibler, Litaker, M.A.Faust, W.C.Holland, Vandersea & P.A.Tester, 2009
+Gambierdiscus cheloniae K.F.Smith, L.Rhodes & S.A.Murray, 2016
+Gambierdiscus excentricus S.Fraga, 2011
+Gambierdiscus holmesii Kretzschmar, Larsson, Hoppenrath, Doblin & S. A. Murray, 2019
+Gambierdiscus honu L.Rhodes, K.F.Smith & S.A.Murray, 2017
+Gambierdiscus lapillus Kretzschmar, Hoppenrath & S.A.Murray, 2017
+Gambierdiscus lewisii Larsson, Kretzschmar, Hoppenrath, Doblin & Sh. A. Murray, 2019
+Gambierdiscus pacificus Chinain & M.A.Faust, 1999
+Gambierdiscus polynesiensis M.Chinain & M.Faust, 1999
+Gambierdiscus scabrosus T.Nishimura, Shinya Sato & M.Adachi, 2014
+Gambierdiscus silvae S.Fraga & F.Rodríguez, 2014
+Gambierdiscus toxicus R.Adachi & Y.Fukuyo, 1979
+Geitlerinema (Anagnostidis & Komárek) Anagnostidis, 1989
+Geitlerinema splendidum (Gomont) Anagnostidis, 1989
+Geitlerinemataceae Strunecky & Mares, 2023
+Geitlerinematales
+Gloeotrichia J.Agardh ex Bornet & Flahault, 1886
+Gloeotrichiaceae J.Komárek, J.Kastovsky, J.Mares & J.R.Johansen, 2014
+Gomphosphaeriaceae Elenkin, 1933
+Gomphosphaerioideae
+Goniodoma Stein, 1883
+Goniodomataceae Lindemann, 1928
+Gonyaulacaceae Lindemann, 1928
+Gonyaulacales
+Gonyaulacoidia
+Gonyaulax Diesing, 1866
+Gonyaulax bohaiensis Gu, Mertens & Shin, 2022
+Gonyaulax spinifera (Claparède & Lachmann) Diesing, 1866
+Gonyaulax taylorii M.C.Carbonell-Moore, 1996
+Gracilicutes
+Gymnodiniaceae Lankester, 1885
+Gymnodiniales
+Gymnodinium F.Stein, 1878
+Gymnodinium catenatum H.W.Graham, 1943
+Gyrodiniaceae Moestrup & Calado, 2018
+Gyrodinium Kofoid & Swezy, 1921
+Hacrobia
+Haptophyta
+Haptophytina
+Harosa
+Hemieutreptia Hada, 1974
+Heterocapsa F.Stein, 1883
+Heterocapsa circularisquama Horiguchi, 1995
+Heterocapsaceae R.A. Fensome, F.J.R. Taylor, G. Norris, W.A.S. Sarjeant, D.I. Wharton & G.L. Williams
+Heterokonta
+Heterokontophyta
+Heterosigma Hada ex Y.Hara & Chihara, 1987
+Heterosigma akashiwo (Hada) Hada ex Y.Hara & Chihara, 1987
+Hypogyristia
+Karenia G.Hansen & Moestrup, 2000
+Karenia bicuneiformis Botes, Sym & Pitcher, 2003
+Karenia brevis (C.C.Davis) Gert Hansen & Moestrup, 2000
+Karenia brevisulcata (F.H.Chang) Gert Hansen & Moestrup, 2000
+Karenia concordia F.H.Chang & K.G.Ryan, 2004
+Karenia cristata L.Botes, S.D.Sym & G.C.Pitcher, 2003
+Karenia longicanalis Z.B.Yang, I.J.Hodgkiss & Gert Hansen, 2001
+Karenia mikimotoi (Miyake & Kominami ex Oda) Gert Hansen & Moestrup, 2000
+Karenia papilionacea A.J.Haywood & K.A.Steidinger, 2004
+Karenia selliformis A.J.Haywood, K.A.Steidinger & L.MacKenzie, 2004
+Kareniaceae Bergholtz, Daugbjerg, Moestrup & Fernández-Tejedor, 2005
+Karlodinium J.Larsen, 2000
+Karlodinium armiger Bergholtz, Daugbjerg & Moestrup, 2006
+Karlodinium conicum Salas, 2008
+Karlodinium corsicum (Paulmier, Berland, Billard & Nezan) Siano & Zingone, 2009
+Karlodinium digitatum (Z.B.Yang, H.Takayama, K.Matsuoka & I.J.Hodkiss) H.Gu, L.Chan & Z.Lu, 2018
+Karlodinium gentienii E.Nézan, N.Chomérat & R.Siano, 2014
+Karlodinium veneficum (D.Ballantine) J.Larsen, 2000
+Limnospira Nowicka-Krawczyk, Mühlsteinová & Hauer, 2019
+Limnothrix Meffert, 1987
+Lingulodiniaceae W.A.Sarjeant & C.Downie, 1974
+Lingulodinium D.Wall, 1967
+Lingulodinium polyedra (F.Stein) J.D.Dodge, 1989
+Lophodiniaceae Osorio Tafall, 1942
+Lophodiniales
+Luciella P.L.Mason, Jeong, Litaker, Reece & Steidinger, 2007
+Luciella masanensis P.L.Mason, Jeong, Litaker, Reece & Steidinger, 2007
+Lyngbya C.Agardh ex Gomont, 1892
+Lyngbya majuscula Harvey ex Gomont, 1892
+Margalefidinium F.Gómez, Richlen & D.M.Anderson, 2017
+Margalefidinium fulvescens (M.Iwataki, H.Kawami & Matsuoka) F.Gómez, Richlen & D.M.Anderson, 2017
+Margalefidinium polykrikoides (Margalef) F.Gómez, Richlen & D.M.Anderson, 2017
+Merismopediaceae (Elenkin & Hollerbach) Elenkin, 1933
+Microcoleaceae O.Strunecky, J.R.Johansen & J.Komárek, 2013
+Microcoleoideae
+Microcystaceae Elenkin, 1933
+Microcystis Lemmermann, 1907
+Microcystis aeruginosa (Kützing) Kützing, 1846
+Monista
+Myzozoa
+Naviculales
+Negibacteria
+Neidiineae
+Nitzschia A.H. Hassall, 1845
+Nitzschia bizertensis B.Smida, N.Lundholm, A.S.Hlaili & H.H.Mabrouk, 2014
+Nitzschia navis-varingica N.Lundholm & Ø.Moestrup, 2000
+Nodularia Mertens ex Bornet & Flahault, 1886
+Nodularia spumigena Mertens ex Bornet & Flahault, 1888
+Nodulariaceae Elenkin, 1916
+Nostocaceae Eichler, 1886
+Nostocales
+Nostocophycidae
+Ochrophyta
+Olisthodiscaceae Cavalier-Smith
+Olisthodiscales
+Olisthodiscophyceae
+Olisthodiscus N.Carter, 1937
+Oscillatoriaceae Engler, 1898
+Oscillatoriales
+Oscillatoriophycidae
+Ostreopsidaceae Lindemann, 1928
+Ostreopsidoideae Gottschling, Tillmann & Elbrächter, 2021
+Ostreopsis Johs.Schmidt, 1901
+Ostreopsis fattorussoi Accoroni, Romagnoli & Totti, 2016
+Ostreopsis heptagona D.R.Norris, J.W.Bomber & Balech, 1985
+Ostreopsis mascarenensis Quod, 1994
+Ostreopsis ovata Fukuyo, 1981
+Ostreopsis rhodesiae Verma, Hoppenrath & S.A.Murray, 2016
+Ostreopsis siamensis Johs.Schmidt, 1901
+Oxyphysaceae Sournia, 1984
+Pelagomonadaceae R.A.Andersen & G.W.Saunders, 1993
+Pelagomonadales
+Pelagophyceae
+Peridinea
+Peridiniaceae Ehrenberg, 1831
+Peridiniales
+Peridiniphycidae
+Peridinium Ehrenberg, 1830
+Peridinoidia
+Pfiesteria K.A.Steidinger & J.M.Burkholder, 1996
+Pfiesteria piscicida Steidinger & J.M.Burkholder, 1996
+Pfiesteria shumwayae Glasgow & J.M.Burkholder, 2001
+Pfiesteriaceae Steidinger & Burkholder, 1996
+Phaeocystaceae Lagerheim, 1896
+Phaeocystales
+Phaeocystis Lagerheim, 1893
+Phaeocystis globosa Scherffel, 1899
+Phaeocystis pouchetii (Hariot) Lagerheim, 1896
+Phalacroma Stein, 1883
+Phalacroma mitra F.Schütt, 1895
+Phalacroma rotundatum (Claparéde & Lachmann) Kofoid & J.R.Michener, 1911
+Pheopolykrikos Chatton, 1933
+Phormidiaceae Anagnostidis & Komárek, 1988
+Phormidioideae
+Phormidium Kützing ex Gomont, 1892
+Phormidium uncinatum Gomont ex Gomont, 1892
+Phytodiniales
+Planktothrix Anagnostidis & Komárek, 1988
+Plantae
+Polykrikaceae Kofoid & Swezy, 1921
+Polykrikos Bütschli, 1873
+Polykrikos hartmannii W.M.Zimmermann, 1930
+Prochlorococcaceae Komárek & Strunecky, 2020
+Pronoctilucaceae
+Prorocentraceae Stein, 1883
+Prorocentrales
+Prorocentrum Ehrenberg, 1834
+Prorocentrum borbonicum L.Ten-Hage, J.Turquet, J.-P.Quod, S.Puiseux-Dao & Couté, 2000
+Prorocentrum caipirignum S.Fraga, M.Menezes & S.M.Nascimento, 2017
+Prorocentrum cassubicum (Woloszynska) J.D.Dodge, 1975
+Prorocentrum concavum Y.Fukuyo, 1981
+Prorocentrum cordatum (Ostenfeld) J.D.Dodge, 1976
+Prorocentrum emarginatum Y.Fukuyo, 1981
+Prorocentrum hoffmannianum M.A.Faust, 1990
+Prorocentrum leve M.A.Faust, M.W.Vandersea, S.R.Kibler, P.A.Tester & R.W.Litaker, 2008
+Prorocentrum lima (Ehrenberg) F.Stein, 1878
+Prorocentrum mexicanum Osorio-Tafall, 1942
+Prorocentrum porosum Arteaga-Sogamoso, F.Rodríguez, Amato, Ben-Gigirey, Tibiriçá, Chomerat, Mafra, T.Nishimura, M.Adachi & Mancera-Pineda, 2022
+Prorocentrum rhathymum Loeblich III, Sherley & Schmidt, 1979
+Prorocentrum steidingerae F.Gómez, D.Qiu & S.Lin, 2017
+Prorocentrum texanum Henrichs, Steidinger, P.S.Scott & L.Campbell, 2013
+Protoceratiaceae Lindemann, 1928
+Protoceratium R.S.Bergh, 1881
+Protoceratium reticulatum (Claparède & Lachmann) Bütschli, 1885
+Protoperidiniaceae J.P. Bujak & E.H. Davies, 1983
+Protozoa
+Prymnesiaceae Conrad, 1926
+Prymnesiales
+Prymnesiophycidae
+Prymnesium Massart, 1920
+Prymnesium calathiferum Chang & Ryan, 1985
+Prymnesium faveolatum Fresnel, 2001
+Prymnesium parvum N.Carter, 1937
+Prymnesium parvum f. patelliferum (J.C.Green, D.J.Hibberd & R.N.Pienaar) A.Larsen, 1999
+Prymnesium polylepis (Manton & Parke) Edvardsen, Eikrem & Probert, 2011
+Prymnesium zebrinum C.Billard, 1983
+Pseudanabaenaceae K.Anagnostidis & J.Komárek, 1988
+Pseudanabaenales
+Pseudanabaenoideae
+Pseudochattonella (Y.Hara & Chihara) Hosoi-Tanabe, Honda, Fukaya, Inagaki & Sako, 2007
+Pseudochattonella farcimen (Eikrem, Edvardsen & J.Throndsen) Eichrem, 2009
+Pseudochattonella verruculosa (Y.Hara & M.Chihara) S.Tanabe-Hosoi, D.Honda, S.Fukaya, Y.Inagaki & Y.Sako, 2007
+Pseudo-nitzschia H. Peragallo in H. Peragallo & M. Peragallo, 1900
+Pseudo-nitzschia abrensis Pérez-Aicua & Orive, 2013
+Pseudo-nitzschia australis Frenguelli, 1939
+Pseudo-nitzschia batesiana H.C.Lim, S.T.Teng, C.P.Leaw & P.T.Lim, 2013
+Pseudo-nitzschia bipertita S.T.Teng, H.C.Lim & C.P.Leaw, 2016
+Pseudo-nitzschia brasiliana N.Lundholm, G.R.Hasle & G.A.Fryxell, 2002
+Pseudo-nitzschia caciantha Lundholm, Moestrup & Hasle, 2003
+Pseudo-nitzschia calliantha Lundholm, Moestrup & Hasle, 2003
+Pseudo-nitzschia cuspidata (Hasle) Hasle, 1993
+Pseudo-nitzschia delicatissima (Cleve) Heiden, 1928
+Pseudo-nitzschia fraudulenta (Cleve) Hasle, 1993
+Pseudo-nitzschia fukuyoi H.Ch.Lim, S.T.Teng, Ch.P.Leaw & P.T.Lim, 2013
+Pseudo-nitzschia galaxiae N.Lundholm & Ø.Moestrup, 2002
+Pseudo-nitzschia granii (G.R.Hasle) G.R.Hasle, 1974
+Pseudo-nitzschia hasleana Lundholm, 2012
+Pseudo-nitzschia kodamae S.T. Teng, H.C. Lim, C.P. Leaw & P.T. Lim, 2015
+Pseudo-nitzschia lundholmiae H.C.Lim, S.T.Teng, C.P.Leaw & P.T.Lim, 2013
+Pseudo-nitzschia multiseries (Hasle) Hasle, 1995
+Pseudo-nitzschia multistriata (Takano) Takano, 1995
+Pseudo-nitzschia obtusa (Hasle) Hasle & Lundholm, 2005
+Pseudo-nitzschia plurisecta Orive & Pérez-Aicua, 2013
+Pseudo-nitzschia pseudodelicatissima (Hasle) Hasle, 1993
+Pseudo-nitzschia punctionis B.B.Niu & Yang Li
+Pseudo-nitzschia pungens (Grunow ex Cleve) G.R.Hasle, 1993
+Pseudo-nitzschia seriata (Cleve) H.Peragallo, 1899
+Pseudo-nitzschia simulans Li, Huang & Xu, 2017
+Pseudo-nitzschia subcurvata (G.R.Hasle) G.A.Fryxell, 1993
+Pseudo-nitzschia subfraudulenta (G.R.Hasle) G.R.Hasle, 1993
+Pseudo-nitzschia subpacifica (Hasle) Hasle, 1993
+Pseudo-nitzschia turgidula (Hustedt) G.R.Hasle, 1993
+Ptychodiscaceae (Schütt) Lemmermann, 1899
+Ptychodiscus Stein, 1883
+Pyrocystaceae (Schütt, 1896) Lemmermann, 1899
+Pyrocystales
+Pyrodinium L.Plate, 1906
+Pyrodinium bahamense L.Plate, 1906
+Pyrodinium bahamense var. compressum (Böhm) Steidinger, Tester & F.J.R.Taylor, 1980
+Raphidoistia
+Raphidophyceae
+Rivulariaceae Frank, 1886
+Sarcinochrysidaceae Gayral & Billard, 1977
+Sarcinochrysidales
+Synechococcaceae J.Komárek & Anagnostidis, 1995
+Synechococcales
+Synechococcoideae
+Synechococcophycidae
+Takayama de Salas, Bolch, Botes & Hallegraeff, 2003
+Takayama cladochroma (J.Larsen) M.F.Salas, Bolch & Hallegraeff, 2003
+Tetraspora Link ex Desvaux, 1818
+Tetrasporaceae Wittrock, 1872
+Tetrasporales
+Thalassiophysales
+Thoracosphaeraceae Schiller, 1930 emend. Tangen in Tangen, Brand, Blackwelder & Guillard, 1982
+Thoracosphaerales
+Tovelliaceae Moestrup, Lindberg & Daugbjerg, 2005
+Tovelliales
+Triadinium Dodge, 1981
+Trichormus (Ralfs ex Bornet & Flahault) Komárek & Anagnostidis, 1989
+Vacuolariaceae A.Luther, 1899:
+Vicicitus F.H.Chang, 2012
+Vicicitus globosus (Y.Hara & Chihara) F.H.Chang, 2012
+Viridiplantae
+Vulcanodinium E.Nézan & N.Chomérat, 2011
+Vulcanodinium rugosum Nézan & Chomérat, 2011
+Wilmottiaceae Strunecky & Mares, 2023
+Woloszynskia R.H.Thompson, 1951

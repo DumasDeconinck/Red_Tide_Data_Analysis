@@ -1,0 +1,145 @@
+"","df.Sighting","df.Date","df.Year","df.Group","df.Location","df.lat","df.lon","df.Species","u.valid_name","u.kingdom","u.phylum","u.order","u.family","u.genus"
+"7","1977S0004","1977-05-24","1977","Dinoflagellates","Tolo Harbour",22.4459060119568,114.196059274146,"Protodinium simplex","Protodinium simplex","Chromista","Myzozoa",NA,NA,"Protodinium"
+"41","1983S0017","1983-12-13","1983","Dinoflagellates","Tolo Harbour",22.4436331285727,114.222293363462,"Heterocapsa circularisquama","Heterocapsa circularisquama RNA virus 01","Viruses",NA,NA,NA,"Dinodnavirus"
+"129","1986S0023","1986-09-12","1986","Dinoflagellates","Tolo Harbour",22.4436331285727,114.222293363462,"Heterocapsa circularisquama","Heterocapsa circularisquama RNA virus 01","Viruses",NA,NA,NA,"Dinodnavirus"
+"146","1987S0008","1987-03-18","1987","Others","Yim Tin Tsai (East) Fish Culture Zone",22.4543925618752,114.22239966832,"Heterosigma akashiwo","Heterosigma akashiwo virus 01","Viruses",NA,NA,"Phycodnaviridae","Raphidovirus"
+"155","1987S0017","1987-05-13","1987","Others","Tolo Harbour",22.4436331285727,114.222293363462,"Heterosigma akashiwo","Heterosigma akashiwo virus 01","Viruses",NA,NA,"Phycodnaviridae","Raphidovirus"
+"161","1987S0023","1987-07-28","1987","Dinoflagellates","Three Fathoms Cove (Kei Ling Ha Hoi)",22.4300222316933,114.277458559829,"Heterocapsa circularisquama","Heterocapsa circularisquama RNA virus 01","Viruses",NA,NA,NA,"Dinodnavirus"
+"192","1988S0011","1988-02-15","1988","Others","Tolo Harbour",22.4436331285727,114.222293363462,"Heterosigma akashiwo","Heterosigma akashiwo virus 01","Viruses",NA,NA,"Phycodnaviridae","Raphidovirus"
+"193","1988S0013","1988-02-22","1988","Others","Tolo Harbour and Yung Shue Au Fish Culture Zone",22.4435705225056,114.222221795156,"Heterosigma akashiwo","Heterosigma akashiwo virus 01","Viruses",NA,NA,"Phycodnaviridae","Raphidovirus"
+"257","1988S0066","1988-08-31","1988","Dinoflagellates","Port Shelter (Ngau Mei Hoi), Sai Kung",22.3552586836193,114.264771390968,"Scrippsiella trochoidea",NA,NA,NA,NA,NA,NA
+"291","1989S0007","1989-01-31","1989","Others","Tolo Harbour",22.4328941278863,114.214982716203,"Heterosigma akashiwo","Heterosigma akashiwo virus 01","Viruses",NA,NA,"Phycodnaviridae","Raphidovirus"
+"315","1989S0033","1989-10-26","1989","Others","Tolo Harbour",22.4436331285727,114.222293363462,"Heterosigma akashiwo","Heterosigma akashiwo virus 01","Viruses",NA,NA,"Phycodnaviridae","Raphidovirus"
+"321","1990S0001","1990-01-02","1990","Dinoflagellates","Yim Tin Tsai (East) Fish Culture Zone",22.4542788144269,114.221852590097,"Heterocapsa circularisquama","Heterocapsa circularisquama RNA virus 01","Viruses",NA,NA,NA,"Dinodnavirus"
+"354","1990S0034","1990-09-27","1990","Dinoflagellates","Yim Tin Tsai (East) Fish Culture Zone",22.4547456504446,114.222437741619,"Heterocapsa circularisquama","Heterocapsa circularisquama RNA virus 01","Viruses",NA,NA,NA,"Dinodnavirus"
+"380","1991S0024","1991-11-22","1991","Dinoflagellates","Tolo Harbour",22.4436331285727,114.222293363462,"Heterocapsa circularisquama","Heterocapsa circularisquama RNA virus 01","Viruses",NA,NA,NA,"Dinodnavirus"
+"381","1991S0025","1991-12-04","1991","Dinoflagellates","Starling Inlet (Sha Tau Kok Hoi)",22.5348466838985,114.220249562559,"Heterocapsa circularisquama","Heterocapsa circularisquama RNA virus 01","Viruses",NA,NA,NA,"Dinodnavirus"
+"386","1992S0005","1992-04-16","1992","Others","Hau Tze Kok",22.4806081191565,114.352321481711,"Dictyocha octonaria",NA,NA,NA,NA,NA,NA
+"401","1993S0001","1993-01-01","1993","Dinoflagellates","Starling Inlet (Sha Tau Kok Hoi)",22.5348466838985,114.220249562559,"Heterocapsa circularisquama","Heterocapsa circularisquama RNA virus 01","Viruses",NA,NA,NA,"Dinodnavirus"
+"424","1994S0014","1994-04-18","1994","Others","Shing Mun River",22.3973287844342,114.208633065372,"Heterosigma akashiwo","Heterosigma akashiwo virus 01","Viruses",NA,NA,"Phycodnaviridae","Raphidovirus"
+"447","1995S0018","1995-04-10","1995","Others","Yim Tin Tsai Fish Culture Zone",22.4545791285488,114.208431512675,"Heterosigma akashiwo","Heterosigma akashiwo virus 01","Viruses",NA,NA,"Phycodnaviridae","Raphidovirus"
+"452","1995S0023","1995-12-27","1995","Dinoflagellates","Tolo Harbour",22.4436331285727,114.222293363462,"Heterocapsa circularisquama","Heterocapsa circularisquama RNA virus 01","Viruses",NA,NA,NA,"Dinodnavirus"
+"459","1996S0006","1996-04-26","1996","Dinoflagellates","Tolo Harbour",22.4439820006432,114.221554914035,"Heterocapsa circularisquama","Heterocapsa circularisquama RNA virus 01","Viruses",NA,NA,NA,"Dinodnavirus"
+"464","1996S0011","1996-06-04","1996","Others","Tolo Harbour",22.4436331285727,114.222293363462,"Pedinomonadaceae ","Pedinomonadaceae","Plantae","Chlorophyta","Pedinomonadales","Pedinomonadaceae",NA
+"474","1996S0019","1996-11-06","1996","Dinoflagellates","Tolo Harbour",22.4436331285727,114.222293363462,"Heterocapsa circularisquama","Heterocapsa circularisquama RNA virus 01","Viruses",NA,NA,NA,"Dinodnavirus"
+"495","1997S0012","1997-04-17","1997","Others","Yim Tin Tsai Fish Culture Zone",22.4546358655573,114.210100652718,"Heterosigma akashiwo","Heterosigma akashiwo virus 01","Viruses",NA,NA,"Phycodnaviridae","Raphidovirus"
+"497","1997S0014","1997-05-09","1997","Dinoflagellates","Tolo Harbour",22.4436331285727,114.222293363462,"Heterocapsa circularisquama","Heterocapsa circularisquama RNA virus 01","Viruses",NA,NA,NA,"Dinodnavirus"
+"531","1998S0025","1998-05-20","1998","Dinoflagellates","Yim Tin Tsai Fish Culture Zone and Tolo Harbour",22.4442942362072,114.222367672393,"Heterocapsa circularisquama","Heterocapsa circularisquama RNA virus 01","Viruses",NA,NA,NA,"Dinodnavirus"
+"562","1999S0014","1999-04-01","1999","Others","Golden Beach, Tuen Mun",22.3675176863501,113.988229902897,"Heterosigma akashiwo","Heterosigma akashiwo virus 01","Viruses",NA,NA,"Phycodnaviridae","Raphidovirus"
+"563","1999S0015","1999-04-09","1999","Others","Tuen Mun River",22.3944427941432,113.972842045657,"Heterosigma akashiwo","Heterosigma akashiwo virus 01","Viruses",NA,NA,"Phycodnaviridae","Raphidovirus"
+"565","1999S0018","1999-04-19","1999","Dinoflagellates","Yim Tin Tsai Fish Culture Zone",22.4537137474019,114.209129816877,"Heterocapsa circularisquama","Heterocapsa circularisquama RNA virus 01","Viruses",NA,NA,NA,"Dinodnavirus"
+"567","1999S0020","1999-07-22","1999","Others","Yim Tin Tsai and Yim Tin Tsai (East) Fish Culture Zones",22.4544402183019,114.222389813107,"Heterosigma akashiwo","Heterosigma akashiwo virus 01","Viruses",NA,NA,"Phycodnaviridae","Raphidovirus"
+"581","2000S0002","2000-01-05","2000","Others","Castle Peak Bay, Tuen Mun",22.385265331778,113.968815119804,"Heterosigma akashiwo","Heterosigma akashiwo virus 01","Viruses",NA,NA,"Phycodnaviridae","Raphidovirus"
+"592","2000S0013","2000-03-07","2000","Others","Sha Tau Kok Hoi and Sha Tau Kok Fish Culture Zone",22.5357108803029,114.22309956818,"Heterosigma akashiwo","Heterosigma akashiwo virus 01","Viruses",NA,NA,"Phycodnaviridae","Raphidovirus"
+"609","2000S0030","2000-08-18","2000","Others","Kat O Fisheries Research Station",22.5364129806668,114.302839847888,"Hermesinum adriaticum","Hermesinum adriaticum","Protozoa",NA,"Ebriales","Ebriopsidaceae","Hermesinum"
+"610","2000S0031","2000-09-23","2000","Dinoflagellates","Tai Long Wan, Sai Kung",22.4179826596933,114.389081403369,"Scrippsiella trochoidea",NA,NA,NA,NA,NA,NA
+"611","2000S0032","2000-09-24","2000","Dinoflagellates","Big Wave Bay, Hong Kong Island",22.2437876160592,114.25157836313,"Scrippsiella trochoidea",NA,NA,NA,NA,NA,NA
+"613","2000S0033","2000-09-25","2000","Dinoflagellates","Shek O Beach, Hong Kong Island",22.2283464814196,114.251747823819,"Scrippsiella trochoidea",NA,NA,NA,NA,NA,NA
+"615","2000S0036","2000-09-29","2000","Dinoflagellates","Stanley Main Beach, Hong Kong Island",22.221109189438,114.214561152538,"Scrippsiella trochoidea",NA,NA,NA,NA,NA,NA
+"616","2000S0037","2000-09-29","2000","Dinoflagellates","Tolo Channel near Lo Fu Wat",22.4639036269446,114.271483729275,"Scrippsiella trochoidea",NA,NA,NA,NA,NA,NA
+"617","2000S0038","2000-09-29","2000","Dinoflagellates","Port Shelter near The Hong Kong University of Science and Technology",22.3352925553976,114.273061683833,"Scrippsiella trochoidea",NA,NA,NA,NA,NA,NA
+"618","2000S0040","2000-09-30","2000","Dinoflagellates","O Pui Tong near Yeung Chau",22.5415870784071,114.304278364259,"Scrippsiella trochoidea",NA,NA,NA,NA,NA,NA
+"619","2000S0041","2000-10-01","2000","Dinoflagellates","Kat O Fisheries Research Station",22.5362730937996,114.302490686954,"Scrippsiella trochoidea",NA,NA,NA,NA,NA,NA
+"620","2000S0042","2000-10-03","2000","Dinoflagellates","Kat O Fisheries Research Station",22.5362010921961,114.303013526099,"Scrippsiella trochoidea",NA,NA,NA,NA,NA,NA
+"621","2000S0043","2000-10-04","2000","Dinoflagellates","Long Harbour near Nam Fung Wan",22.4584656655087,114.342400040939,"Scrippsiella trochoidea",NA,NA,NA,NA,NA,NA
+"622","2000S0044","2000-10-08","2000","Dinoflagellates","Kat O Fisheries Research Station",22.5362206994304,114.302514261669,"Scrippsiella trochoidea",NA,NA,NA,NA,NA,NA
+"623","2000S0045","2000-10-12","2000","Dinoflagellates","Starling Inlet (Sha Tau Kok Hoi)",22.5462572019644,114.238858516777,"Scrippsiella trochoidea",NA,NA,NA,NA,NA,NA
+"624","2000S0046","2000-10-17","2000","Dinoflagellates","Tolo Harbour near Tai Po Industrial Estate",22.4509817862917,114.183117991415,"Scrippsiella trochoidea",NA,NA,NA,NA,NA,NA
+"628","2000S0048","2000-11-01","2000","Dinoflagellates","Shing Mun River",22.3844842090174,114.196149511861,"Scrippsiella trochoidea",NA,NA,NA,NA,NA,NA
+"629","2000S0049","2000-11-06","2000","Dinoflagellates","Yim Tin Tsai Fish Culture Zone",22.4524653862345,114.207753961746,"Scrippsiella trochoidea",NA,NA,NA,NA,NA,NA
+"630","2000S0050","2000-11-15","2000","Dinoflagellates","Shing Mun River ",22.3892634474254,114.200631816928,"Scrippsiella trochoidea",NA,NA,NA,NA,NA,NA
+"631","2000S0051","2000-11-17","2000","Dinoflagellates","Ma Liu Shui Pier",22.4197943406432,114.216522551046,"Scrippsiella trochoidea",NA,NA,NA,NA,NA,NA
+"632","2000S0052","2000-11-19","2000","Dinoflagellates","Yim Tin Tsai Fish Culture Zone",22.4539715710823,114.204852361979,"Scrippsiella trochoidea",NA,NA,NA,NA,NA,NA
+"656","2001S0017","2001-01-17","2001","Dinoflagellates","Shing Mun River",22.3866926892493,114.198410587527,"Scrippsiella trochoidea",NA,NA,NA,NA,NA,NA
+"658","2001S0018","2001-01-19","2001","Diatom","Deep Water Bay near Ocean Park",22.2327173591155,114.174929530692,"Chaetoceros socialis","Chaetoceros socialis f. radians RNA virus 01","Viruses",NA,"Picornavirales",NA,"Bacillarnavirus"
+"659","2001S0020","2001-03-01","2001","Others","Starling Inlet (Sha Tau Kok Hoi)",22.5510259180974,114.241554210317,"Heterosigma akashiwo","Heterosigma akashiwo virus 01","Viruses",NA,NA,"Phycodnaviridae","Raphidovirus"
+"665","2001S0026","2001-04-02","2001","Dinoflagellates","Sha Tin Hoi",22.4153269708319,114.219698512461,"Scrippsiella trochoidea",NA,NA,NA,NA,NA,NA
+"668","2001S0027","2001-04-03","2001","Dinoflagellates","Plover Cove (Shuen Wan Hoi) near Sha Lan",22.4612794525255,114.210007693274,"Scrippsiella trochoidea",NA,NA,NA,NA,NA,NA
+"669","2001S0028","2001-04-07","2001","Dinoflagellates","Tolo Harbour",22.4510727073273,114.200077056901,"Scrippsiella trochoidea",NA,NA,NA,NA,NA,NA
+"670","2001S0029","2001-04-14","2001","Others","Kat O and O Pui Tong Fish Culture Zones",22.5434135974019,114.28335144253,"Dictyocha octonaria",NA,NA,NA,NA,NA,NA
+"673","2001S0032","2001-04-21","2001","Others","Deep water Bay near Ocean Park",22.2312496558865,114.174323491669,"Dictyocha octonaria",NA,NA,NA,NA,NA,NA
+"676","2001S0030","2001-04-21","2001","Others","Kau Sai Fish Culture Zone",22.3416949626482,114.317307461304,"Dictyocha octonaria",NA,NA,NA,NA,NA,NA
+"679","2001S0031","2001-04-21","2001","Others","Rocky Harbour near Kau Sai",22.3443716802361,114.331976157991,"Dictyocha octonaria",NA,NA,NA,NA,NA,NA
+"683","2001S0034","2001-04-25","2001","Others","Silverstrand Beach, Sai Kung",22.3232592531483,114.27284537736,"Dictyocha octonaria",NA,NA,NA,NA,NA,NA
+"684","2001S0035","2001-04-25","2001","Dinoflagellates","Yim Tin Tsai and Yung Shue Au Fish Culture Zones",22.4249228107315,114.279210132117,"Scrippsiella trochoidea",NA,NA,NA,NA,NA,NA
+"704","2001S0050","2001-09-03","2001","Dinoflagellates","Shuen Wan Typhoon Shelter",22.4564325576282,114.210601545187,"Scrippsiella trochoidea",NA,NA,NA,NA,NA,NA
+"706","2001S0051","2001-09-10","2001","Dinoflagellates","Plover Cove (Shuen Wan Hoi)",22.4620037597732,114.214978921797,"Scrippsiella trochoidea",NA,NA,NA,NA,NA,NA
+"708","2001S0052","2001-09-14","2001","Dinoflagellates","Yim Tin Tsai Fish Culture Zone",22.4528972465839,114.203298087521,"Scrippsiella trochoidea",NA,NA,NA,NA,NA,NA
+"711","2001S0054","2001-10-24","2001","Diatom","Starling Inlet (Sha Tau Kok Hoi)",22.5377415303599,114.226304017693,"Chaetoceros tenuissimus","Chaetoceros tenuissimus RNA virus 01","Viruses",NA,"Picornavirales",NA,"Bacillarnavirus"
+"715","2001S0055","2001-11-19","2001","Dinoflagellates","Shing Mun River",22.384073895041,114.19594813819,"Scrippsiella trochoidea",NA,NA,NA,NA,NA,NA
+"718","2001S0056","2001-11-21","2001","Dinoflagellates","Shing Mun River",22.3856781312185,114.197347668507,"Scrippsiella trochoidea",NA,NA,NA,NA,NA,NA
+"737","2002S0016","2002-04-04","2002","Dinoflagellates","Tolo Harbour",22.4510085000384,114.200270017294,"Heterocapsa circularisquama","Heterocapsa circularisquama RNA virus 01","Viruses",NA,NA,NA,"Dinodnavirus"
+"775","2003S0015","2003-08-19","2003","Dinoflagellates","Kat O Fish Culture Zone",22.5505216992436,114.281682537654,"Scrippsiella trochoidea",NA,NA,NA,NA,NA,NA
+"780","2003S0019","2003-10-27","2003","Others","Shing Mun River",22.3791185175733,114.191072978833,"Chattonella ","Chattonellales","Chromista","Ochrophyta","Chattonellales",NA,NA
+"789","2004S0005","2004-01-26","2004","Dinoflagellates","Sha Tau Kok Fish Culture Zone",22.5369544592369,114.225337790182,"Heterocapsa circularisquama","Heterocapsa circularisquama RNA virus 01","Viruses",NA,NA,NA,"Dinodnavirus"
+"796","2004S0012","2004-06-11","2004","Diatom","South of Lantau Island",22.1961049737885,113.957599135429,"Chaetoceros socialis","Chaetoceros socialis f. radians RNA virus 01","Viruses",NA,"Picornavirales",NA,"Bacillarnavirus"
+"849","2005S0014","2005-02-07","2005","Others","Sha Tin Hoi",22.4161855651712,114.220026977009,"Heterosigma akashiwo","Heterosigma akashiwo virus 01","Viruses",NA,NA,"Phycodnaviridae","Raphidovirus"
+"852","2005S0015","2005-02-08","2005","Others","Yim Tin Tsai Fish Culture Zone",22.4532006486739,114.207355527263,"Heterosigma akashiwo","Heterosigma akashiwo virus 01","Viruses",NA,NA,"Phycodnaviridae","Raphidovirus"
+"867","2005S0028","2005-04-29","2005","Others","Yim Tin Tsai Fish Culture Zone",22.4552262409358,114.204338348971,"Heterosigma akashiwo","Heterosigma akashiwo virus 01","Viruses",NA,NA,"Phycodnaviridae","Raphidovirus"
+"873","2005S0034","2005-05-04","2005","Others","Shing Mun River",22.3875818329302,114.20616575138,"Heterosigma akashiwo","Heterosigma akashiwo virus 01","Viruses",NA,NA,"Phycodnaviridae","Raphidovirus"
+"911","2006S0012","2006-03-26","2006","Others","Silverstrand Beach, Sai Kung",22.3223909399628,114.273248880119,"Dictyocha octonaria",NA,NA,NA,NA,NA,NA
+"923","2007S0001","2007-01-30","2007","Others","Nim Wan, Tuen Mun",22.4284587650455,113.932086448576,"Heterosigma akashiwo","Heterosigma akashiwo virus 01","Viruses",NA,NA,"Phycodnaviridae","Raphidovirus"
+"957","2007S0036","2007-11-16","2007","Dinoflagellates","Shing Mun River",22.397725812987,114.208941220572,"Scrippsiella trochoidea",NA,NA,NA,NA,NA,NA
+"1003","2009S0014","2009-03-15","2009","Others","Yim Tin Tsai Fish Culture Zone",22.4463182404803,114.202846540039,"Heterosigma akashiwo","Heterosigma akashiwo virus 01","Viruses",NA,NA,"Phycodnaviridae","Raphidovirus"
+"1004","2009S0015","2009-03-17","2009","Others","Shing Mun River",22.3917325884647,114.203141564052,"Heterosigma akashiwo","Heterosigma akashiwo virus 01","Viruses",NA,NA,"Phycodnaviridae","Raphidovirus"
+"1038","2010S0017","2010-08-02","2010","Dinoflagellates","Sha Tau Kok Hoi and Crooked Harbour including OPT, SLK, AC, KO and STK FCZs",22.544093464812,114.269411944618,"Scrippsiella trochoidea",NA,NA,NA,NA,NA,NA
+"1039","2010S0018","2010-08-09","2010","Dinoflagellates","Tolo Habour and Tolo Channel including YTT, YE, LFW FCZs",22.4485963577225,114.266317937301,"Scrippsiella trochoidea",NA,NA,NA,NA,NA,NA
+"1040","2010S0019","2010-09-07","2010","Dinoflagellates","Clear Water Bay First Beach, Sai Kung",22.2907088918936,114.291603948898,"Scrippsiella trochoidea",NA,NA,NA,NA,NA,NA
+"1041","2010S0020","2010-09-07","2010","Dinoflagellates","Hap Mun Bay Beach, Sai Kung",22.3564379763275,114.295647405068,"Scrippsiella trochoidea",NA,NA,NA,NA,NA,NA
+"1042","2010S0021","2010-09-10","2010","Dinoflagellates","Hap Mun Bay Beach, Sai Kung",22.3567720083196,114.295731676934,"Scrippsiella trochoidea",NA,NA,NA,NA,NA,NA
+"1043","2010S0022","2010-09-15","2010","Dinoflagellates","Clear Water Bay Second beach, Sai Kung",22.288240855874,114.290777945087,"Scrippsiella trochoidea",NA,NA,NA,NA,NA,NA
+"1044","2010S0023","2010-09-16","2010","Dinoflagellates","Clear Water Bay First Beach, Sai Kung",22.2906592850473,114.291695688537,"Scrippsiella trochoidea",NA,NA,NA,NA,NA,NA
+"1048","2010S0027","2010-10-18","2010","Diatom","Starling Inlet (Sha Tau Kok Hoi) including Sha Tau Kok Fish Culture Zone",22.537624630051,114.225392793188,"Chaetoceros salsugineum","Chaetoceros salsugineum DNA virus 01","Viruses",NA,NA,NA,"Bacilladnavirus"
+"1053","2011S0001","2011-01-14","2011","Diatom","Shing Mun River",22.387643419847,114.198697646402,"Chaetoceros socialis","Chaetoceros socialis f. radians RNA virus 01","Viruses",NA,"Picornavirales",NA,"Bacillarnavirus"
+"1074","2011S0022","2011-03-31","2011","Others","Tolo Harbour",22.4502367684299,114.184695400215,"Heterosigma akashiwo","Heterosigma akashiwo virus 01","Viruses",NA,NA,"Phycodnaviridae","Raphidovirus"
+"1096","2011S0044","2011-04-28","2011","Diatom","Stanley Bay, Hong Kong Island",22.2168214988519,114.209925369039,"Chaetoceros salsugineum","Chaetoceros salsugineum DNA virus 01","Viruses",NA,NA,NA,"Bacilladnavirus"
+"1155","2012S0003","2012-02-15","2012","Others","Silverstrand Beach, Sai Kung",22.3228484410148,114.272282816241,"Dictyocha octonaria",NA,NA,NA,NA,NA,NA
+"1158","2012S0006","2012-03-16","2012","Others","Shing Mun River",22.3741567475246,114.181750151872,"Dunaliella ","Dunaliellales","Plantae","Chlorophyta","Dunaliellales",NA,NA
+"1160","2012S0008","2012-03-29","2012","Others","Shing Mun River",22.3745034674261,114.182527772196,"Dunaliella ","Dunaliellales","Plantae","Chlorophyta","Dunaliellales",NA,NA
+"1172","2012S0021","2012-04-25","2012","Others","Yim Tin Tsai Fish Culture Zone",22.4533582238171,114.204797269775,"Heterosigma akashiwo","Heterosigma akashiwo virus 01","Viruses",NA,NA,"Phycodnaviridae","Raphidovirus"
+"1179","2012S0025","2012-06-18","2012","Dinoflagellates","Yim Tin Tsai Fish Culture Zone",22.4531155812307,114.205740222111,"Neoceratium furca",NA,NA,NA,NA,NA,NA
+"1180","2012S0026","2012-08-03","2012","Dinoflagellates","Tolo Harbour,Tai Mei Tuk,Yim Tin Tsai and Yim Tin Tsai (East) Fish Culture zones",22.4379718223145,114.214983210385,"Scrippsiella trochoidea",NA,NA,NA,NA,NA,NA
+"1181","2012S0027","2012-08-06","2012","Dinoflagellates","Mirs Bay and Tung Ping Chau Marine Park",22.5242836229416,114.365920404104,"Scrippsiella trochoidea",NA,NA,NA,NA,NA,NA
+"1188","2013S0002","2013-02-14","2013","Others","Entrance of Tuen Mun River Channel",22.3790645909573,113.968151295091,"Heterosigma akashiwo","Heterosigma akashiwo virus 01","Viruses",NA,NA,"Phycodnaviridae","Raphidovirus"
+"1191","2013S0005","2013-04-12","2013","Dinoflagellates","Yung Shue Au Fish Culture Zone",22.4280403598911,114.278627966798,"Neoceratium furca",NA,NA,NA,NA,NA,NA
+"1192","2013S0006","2013-04-16","2013","Dinoflagellates","Wong Chuk Kok Hoi and Wong Wan fish culture zone",22.5070276872303,114.311238390505,"Neoceratium furca",NA,NA,NA,NA,NA,NA
+"1193","2013S0007","2013-04-17","2013","Dinoflagellates","Sham Wan fish culture zone",22.440327484062,114.352349569551,"Neoceratium furca",NA,NA,NA,NA,NA,NA
+"1194","2013S0008","2013-06-12","2013","Dinoflagellates","Yung Shue Au Fish Culture Zone",22.4253239014771,114.278045237552,"Scrippsiella trochoidea",NA,NA,NA,NA,NA,NA
+"1196","2013S0010","2013-06-20","2013","Dinoflagellates","Yim Tin Tsai East Fish Culture Zone",22.4545337827367,114.222389736805,"Scrippsiella trochoidea",NA,NA,NA,NA,NA,NA
+"1203","2014S0005","2014-01-30","2014","Others","Tuen Mun River Channel",22.3802461981051,113.967895846052,"Heterosigma akashiwo","Heterosigma akashiwo virus 01","Viruses",NA,NA,"Phycodnaviridae","Raphidovirus"
+"1207","2014S0007","2014-04-08","2014","Others","Yim Tin Tsai East fish culture zone and Tai Mei Tuk",22.4630449402915,114.22731468134,"Heterosigma akashiwo","Heterosigma akashiwo virus 01","Viruses",NA,NA,"Phycodnaviridae","Raphidovirus"
+"1212","2014S0008","2014-04-09","2014","Others","Tolo Harbour(including Yim Tin Tsai and Yung Shue Au Fish Culture Zone)",22.4440233671327,114.240064006728,"Heterosigma akashiwo","Heterosigma akashiwo virus 01","Viruses",NA,NA,"Phycodnaviridae","Raphidovirus"
+"1214","2014S0010","2014-04-10","2014","Others","Sha Tau Kok fish culture zone",22.5378598096926,114.225145228688,"Heterosigma akashiwo","Heterosigma akashiwo virus 01","Viruses",NA,NA,"Phycodnaviridae","Raphidovirus"
+"1228","2014S0019","2014-05-01","2014","Others","Pui O Beach, Lantau Island",22.2388503692224,113.973877029522,"Heterosigma akashiwo","Heterosigma akashiwo virus 01","Viruses",NA,NA,"Phycodnaviridae","Raphidovirus"
+"1229","2014S0021","2014-05-02","2014","Others","Silver Mine Bay Beach, Lantau Island",22.270549979,114.000046336176,"Heterosigma akashiwo","Heterosigma akashiwo virus 01","Viruses",NA,NA,"Phycodnaviridae","Raphidovirus"
+"1237","2014S0027","2014-05-23","2014","Dinoflagellates","Yim Tin Tsai (East) Fish Culture Zone",22.4615127038542,114.214859622717,"Scrippsiella trochoidea",NA,NA,NA,NA,NA,NA
+"1238","2014S0027","2014-05-23","2014","Others","Yim Tin Tsai (East) Fish Culture Zone",22.4615127038542,114.214859622717,"Heterosigma akashiwo","Heterosigma akashiwo virus 01","Viruses",NA,NA,"Phycodnaviridae","Raphidovirus"
+"1269","2014S0058","2014-10-12","2014","Others","Shing Mun River from Hong Kong Heritage Museum to Banyan Bridge",22.3801234794971,114.192068024448,"Chattonella ","Chattonellales","Chromista","Ochrophyta","Chattonellales",NA,NA
+"1321","2015S0021","2015-02-26","2015","Dinoflagellates","Tolo Harbour to Three Fathoms Cove including YTT, YTTE and YSA FCZ",22.4449739901268,114.239656916513,"Heterocapsa circularisquama","Heterocapsa circularisquama RNA virus 01","Viruses",NA,NA,NA,"Dinodnavirus"
+"1388","2016S0022","2016-02-18","2016","Others","Tathong Channel to Lei Yue Mun including Tung Lung Chau Fish Culture Zone",22.2633181711712,114.263340514367,"Dictyocha octonaria",NA,NA,NA,NA,NA,NA
+"1392","2016S0023","2016-02-19","2016","Others","Port Shelter, Sai Kung",22.3383898066865,114.276288982611,"Dictyocha octonaria",NA,NA,NA,NA,NA,NA
+"1393","2016S0024","2016-02-19","2016","Others","Long Harbour",22.4558941446913,114.343016762526,"Dictyocha octonaria",NA,NA,NA,NA,NA,NA
+"1466","2016S0091","2016-09-06","2016","Dinoflagellates","Rocky Harbour including Tai Tau Chau Fish Culture Zone",22.3479868415313,114.334491317106,"Neoceratium furca",NA,NA,NA,NA,NA,NA
+"1512","2017S0040","2017-06-22","2017","Diatom","Tolo Harbour including Yim Tin Tsai Fish Culture Zone",22.4524030722858,114.206670916881,"Chaetoceros salsugineum","Chaetoceros salsugineum DNA virus 01","Viruses",NA,NA,NA,"Bacilladnavirus"
+"1520","2017S0048","2017-09-28","2017","Diatom","Lei Yue Mun to Sheung Sze Mun including Junk Bay, Tathong Channel and TLC FCZ",22.2388463319073,114.267415222008,"Chaetoceros salsugineum","Chaetoceros salsugineum DNA virus 01","Viruses",NA,NA,NA,"Bacilladnavirus"
+"1531","2018S0010","2018-04-24","2018","Dinoflagellates","Tolo Harbour including Yim Tin Tsai fish culture zone",22.4479408533142,114.197375154607,"Scrippsiella trochoidea",NA,NA,NA,NA,NA,NA
+"1533","2018S0012","2018-05-01","2018","Dinoflagellates","Lo Fu Wat fish culture zone",22.469019114869,114.272589727761,"Scrippsiella trochoidea",NA,NA,NA,NA,NA,NA
+"1538","2018S0016","2018-08-01","2018","Dinoflagellates","Tolo Harbour including Yim Tin Tsai Fish Culture Zone",22.4508286250698,114.204319275624,"Scrippsiella trochoidea",NA,NA,NA,NA,NA,NA
+"1576","2019S0033","2019-03-27","2019","Others","Shing Mun River Channel near Banyan Bridge",22.388058059509,114.199589485958,"Heterosigma akashiwo","Heterosigma akashiwo virus 01","Viruses",NA,NA,"Phycodnaviridae","Raphidovirus"
+"1579","2019S0036","2019-03-30","2019","Others","Tolo Harbour including Yim Tin Tsai and Yim Tin Tsai (East) fish culture zones",22.4459195114777,114.211320805712,"Heterosigma akashiwo","Heterosigma akashiwo virus 01","Viruses",NA,NA,"Phycodnaviridae","Raphidovirus"
+"1593","2020S0003","2020-05-02","2020","Others","West Lamma Channel including Lo Tik Wan and Sok Kwu Wan fish culture zones",22.2245562078529,114.092069019684,"Heterosigma akashiwo","Heterosigma akashiwo virus 01","Viruses",NA,NA,"Phycodnaviridae","Raphidovirus"
+"1594","2020S0004","2020-05-03","2020","Others","Golden Beach, Tuen Mun",22.3707190556025,113.98732671568,"Heterosigma akashiwo","Heterosigma akashiwo virus 01","Viruses",NA,NA,"Phycodnaviridae","Raphidovirus"
+"1595","2020S0005","2020-05-04","2020","Others","Victoria Harbor near Hong Kong China Ferry Terminal",22.2986161981779,114.166359035536,"Heterosigma akashiwo","Heterosigma akashiwo virus 01","Viruses",NA,NA,"Phycodnaviridae","Raphidovirus"
+"1596","2020S0006","2020-05-05","2020","Others","Victoria Harbour near Hong Kong Convention and Exhibition Centre",22.2826141983991,114.170539280123,"Heterosigma akashiwo","Heterosigma akashiwo virus 01","Viruses",NA,NA,"Phycodnaviridae","Raphidovirus"
+"1597","2020S0007","2020-05-12","2020","Others","Silver Mine Bay Beach, Lantau Island",22.2715820247783,114.000827818824,"Heterosigma akashiwo","Heterosigma akashiwo virus 01","Viruses",NA,NA,"Phycodnaviridae","Raphidovirus"
+"1598","2020S0008","2020-06-02","2020","Dinoflagellates","Tolo Harbour including Yim Tin Tsai and Yim Tin Tsai (East) fish culture zones",22.4506380184,114.241766841989,"Scrippsiella trochoidea",NA,NA,NA,NA,NA,NA
+"1697","2022S0015","2022-03-14","2022","Others","Deep Bay",22.4710355370151,113.975175292198,"Heterosigma akashiwo","Heterosigma akashiwo virus 01","Viruses",NA,NA,"Phycodnaviridae","Raphidovirus"
+"1704","2022S0022","2022-03-20","2022","Others","Cafeteria New Beach, Tuen Mun",22.373558419028,113.985750791327,"Heterosigma akashiwo","Heterosigma akashiwo virus 01","Viruses",NA,NA,"Phycodnaviridae","Raphidovirus"
+"1705","2022S0021","2022-03-20","2022","Others","Golden Beach, Tuen Mun",22.3714177999744,113.987987558011,"Heterosigma akashiwo","Heterosigma akashiwo virus 01","Viruses",NA,NA,"Phycodnaviridae","Raphidovirus"
+"1706","2022S0023","2022-03-20","2022","Others","Cafeteria Old Beach, Tuen Mun",22.3744709938669,113.984647108161,"Heterosigma akashiwo","Heterosigma akashiwo virus 01","Viruses",NA,NA,"Phycodnaviridae","Raphidovirus"
+"1717","2022S0033","2022-04-11","2022","Dinoflagellates","Shek O Beach, Hong Kong Island",22.2288237941217,114.251825973932,"Scrippsiella trochoidea",NA,NA,NA,NA,NA,NA
+"1720","2022S0034","2022-04-11","2022","Dinoflagellates","Big Wave Bay Beach, Hong Kong Island",22.2457507905427,114.248501707014,"Scrippsiella trochoidea",NA,NA,NA,NA,NA,NA
+"1764","2023S0031","2023-05-11","2023","Others","Tolo Harbor including Yim Tin Tsai and Yim Tin Tsai (East) Fish Culture Zone",22.4452949650353,114.234925188087,"Heterosigma akashiwo","Heterosigma akashiwo virus 01","Viruses",NA,NA,"Phycodnaviridae","Raphidovirus"
+"1771","2023S0037","2023-07-24","2023","Dinoflagellates","Silver Mine Bay Beach, Lantau Island",22.2706519552257,114.000916168529,"Scrippsiella trochoidea",NA,NA,NA,NA,NA,NA
+"1773","2023S0039","2023-08-28","2023","Dinoflagellates","Shek O Beach, Hong Kong Island",22.227939338949,114.251151627674,"Levanderina fissa","Levanderina fissa","Chromista","Myzozoa","Dinophyceae incertae sedis",NA,"Levanderina"
+"1774","2023S0040","2023-09-12","2023","Others","Tolo Harbour Including Yim Tin Tsai and Yim Tin Tsai (East) Fish Culture Zone",22.4464173672829,114.231933702226,"Heterosigma akashiwo","Heterosigma akashiwo virus 01","Viruses",NA,NA,"Phycodnaviridae","Raphidovirus"
